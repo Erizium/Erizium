@@ -6,30 +6,30 @@ Senior AI Engineer basé à Lyon - Agentic AI, GraphRAG & AI Safety.
 #### Mes centres d'intérêt du moment
 
 **GenAI & Agents**
-- Orchestration multi-agents (LangGraph, AutoGen, CrewAI)
+- Orchestration multi-agents
 - RAG avancé : GraphRAG, hybrid search, re-ranking, chunking adaptatif
 - MCP & tool-use patterns
-- Intégration APIs LLM en prod (OpenAI, Claude, Groq, AWS Bedrock)
-- Fine-tuning LLM (PEFT, LoRA, QLoRA), prompt engineering avancé
-- Knowledge Graphs (Neo4j)
+- Intégration APIs LLM en prod
+- Fine-tuning LLM / prompt engineering avancé
+- Knowledge Graphs
   
 **Cloud & Engineering**
-- APIs production-grade (FastAPI, GraphQL, gRPC)
-- Containerisation & orchestration (Docker, K8s, Helm)
-- AWS (Bedrock, Lambda, S3, IAM), 
-- CI/CD (GitLab CI, GitHub Actions)
-- Observabilité (Prometheus, Grafana, OpenTelemetry)
+- APIs production-grade
+- Containerisation & orchestration
+- AWS
+- CI/CD
+- Observabilité
 
 **Automatisation & Intégration**
-- Workflows d'automatisation (N8N, Airflow)
+- Workflows d'automatisation
 - Industrialisation de features IA dans des produits SaaS B2B
-- Microservices, event-driven (Kafka)
+- Microservices, event-driven
 
 **Data & ML**
-- Vector DBs (Pinecone, Chroma, pgvector)
-- Modern Data Stack (Snowflake, dbt)
-- Spark, Kafka Streams pour le processing distribué
-- Optimisation d'inférence (quantization, batching, vLLM, TensorRT)
+- Vector DBs
+- Modern Data Stack
+- Processing distribué
+- Optimisation d'inférence
 
 ---
 
