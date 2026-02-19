@@ -1,10 +1,9 @@
-## Hey, moi c'est Amin 👋
 
-AI Engineer basé à Lyon. Python au quotidien (et un peu de Next.js !). Je construis des systèmes GenAI et multi-agents, des pipelines RAG, et je les mets en production 😀
+Senior AI Engineer basé à Lyon - Agentic AI, GraphRAG & AI Safety.
 
 ---
 
-#### 🧠 Ce qui m'occupe en ce moment
+#### Mes centres d'intérêt du moment
 
 **GenAI & Agents**
 - Orchestration multi-agents (LangGraph, AutoGen, CrewAI)
@@ -12,8 +11,8 @@ AI Engineer basé à Lyon. Python au quotidien (et un peu de Next.js !). Je cons
 - MCP & tool-use patterns
 - Intégration APIs LLM en prod (OpenAI, Claude, Groq, AWS Bedrock)
 - Fine-tuning LLM (PEFT, LoRA, QLoRA), prompt engineering avancé
-- Knowledge Graphs (Neo4j) pour le raisonnement structuré
-
+- Knowledge Graphs (Neo4j)
+  
 **Cloud & Engineering**
 - APIs production-grade (FastAPI, GraphQL, gRPC)
 - Containerisation & orchestration (Docker, K8s, Helm)
@@ -34,7 +33,7 @@ AI Engineer basé à Lyon. Python au quotidien (et un peu de Next.js !). Je cons
 
 ---
 
-#### 🔬 Sujets que je creuse
+#### Sujets que je creuse
 
 - Raisonnement & planification dans les LLMs (Chain-of-Thought, Tree-of-Thought, ReAct)
 - Architectures Mixture-of-Experts & sparse models
