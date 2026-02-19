@@ -22,7 +22,7 @@ Senior AI Engineer basé à Lyon - Agentic AI, GraphRAG & AI Safety.
 
 **Automatisation & Intégration**
 - Workflows d'automatisation
-- Industrialisation de features IA dans des produits SaaS B2B
+- Industrialisation de features IA dans des produits SaaS B2B/B2C
 - Microservices, event-driven
 
 **Data & ML**
